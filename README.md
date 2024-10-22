@@ -1,5 +1,5 @@
 # fastapi
-##FastAPI course that I deliver to my colleagues.
+## FastAPI course that I deliver to my colleagues.
 
 
 - pip install poetry (or safer, follow the instructions: https://python-poetry.org/docs/#installation)
