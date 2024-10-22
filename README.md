@@ -24,3 +24,29 @@ Todo FastAPI está basado en estos type hints, lo que le da muchas ventajas y be
 Pero, así nunca uses FastAPI te beneficiarás de aprender un poco sobre los type hints.
 
 [Lectura Obligatoria](https://fastapi.tiangolo.com/es/python-types/)
+
+---
+
+## algo mas de Python
+
+1. Tupla (tuple)
+Una tupla es una secuencia ordenada de elementos inmutables. No puedes modificar, añadir o eliminar elementos de una tupla una vez que ha sido creada.
+
+Características:
+
+    - Inmutable: No se puede modificar una vez creada.
+    - Puede contener elementos duplicados.
+    - Puede almacenar cualquier tipo de datos.
+```
+# Definición de una tupla
+mi_tupla = (1, 2, 3, "a", "b")
+print(mi_tupla)  # Salida: (1, 2, 3, 'a', 'b')
+
+# Accediendo a un elemento
+print(mi_tupla[0])  # Salida: 1
+
+# Intentar modificar una tupla lanzará un error
+# mi_tupla[0] = 100  # Esto generaría un error
+
+```
+    
