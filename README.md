@@ -37,8 +37,8 @@ Características:
     - Inmutable: No se puede modificar una vez creada.
     - Puede contener elementos duplicados.
     - Puede almacenar cualquier tipo de datos.
-`
-#Definición de una tupla
+
+`#Definición de una tupla
 mi_tupla = (1, 2, 3, "a", "b")
 print(mi_tupla)  # Salida: (1, 2, 3, 'a', 'b')
 
@@ -46,7 +46,6 @@ print(mi_tupla)  # Salida: (1, 2, 3, 'a', 'b')
 print(mi_tupla[0])  # Salida: 1
 
 #Intentar modificar una tupla lanzará un error
-# mi_tupla[0] = 100  # Esto generaría un error
+mi_tupla[0] = 100  # Esto generaría un error`
 
-`
     
