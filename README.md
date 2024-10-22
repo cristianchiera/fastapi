@@ -23,4 +23,4 @@ Todo FastAPI está basado en estos type hints, lo que le da muchas ventajas y be
 
 Pero, así nunca uses FastAPI te beneficiarás de aprender un poco sobre los type hints.
 
-[Lectura Obligatoria(https://fastapi.tiangolo.com/es/python-types/)]
+[Lectura Obligatoria](https://fastapi.tiangolo.com/es/python-types/)
