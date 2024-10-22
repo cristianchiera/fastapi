@@ -38,14 +38,14 @@ Características:
     - Puede contener elementos duplicados.
     - Puede almacenar cualquier tipo de datos.
 `
-# Definición de una tupla
+#Definición de una tupla
 mi_tupla = (1, 2, 3, "a", "b")
 print(mi_tupla)  # Salida: (1, 2, 3, 'a', 'b')
 
-# Accediendo a un elemento
+#Accediendo a un elemento
 print(mi_tupla[0])  # Salida: 1
 
-# Intentar modificar una tupla lanzará un error
+#Intentar modificar una tupla lanzará un error
 # mi_tupla[0] = 100  # Esto generaría un error
 
 `
